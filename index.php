@@ -13,4 +13,5 @@
 <h1>hello index</h1>
 <?php $this->beginBlock('block1');?>
 <h1>this block 1</h1>
+//test
 <?php $this->endBlock();?>
